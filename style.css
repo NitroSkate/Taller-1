@@ -1,0 +1,39 @@
+body{
+    background: #767DE4;
+    margin: 30px 70px;
+}
+
+.c{ 
+    border: solid black 10px;
+    background: white;
+    height: 1080px;
+    width: 700px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.g{
+    margin: 25px auto auto 450px;
+}
+
+h1{
+    font-size: 3.0em;
+    font-weight: 100;
+}
+
+
+.icon{
+    width:100px;
+    vertical-align:top;
+    font-size: 3em;
+}
+
+.t{
+    font-weight: bold;
+}
+
+.t2{
+    color: tomato;
+}
+
