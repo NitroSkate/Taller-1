@@ -28,7 +28,7 @@ body{
 }
 
 body hr{
-    width: 90%;
+    width: 97%;
     border: 1px solid lightgray;
     margin: 10px auto;
 }
@@ -47,6 +47,7 @@ h1{
 
 .t{
     font-weight: bold;
+    padding: 0.75em;
 }
 
 .t2{
