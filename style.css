@@ -7,14 +7,30 @@ body{
     border: solid black 10px;
     background: white;
     height: 1080px;
-    width: 700px;
-    padding: 5px;
+    width: 80%;
+    max-width: 1200px;
+    padding: 1.5em;
     padding-left: 50px;
     padding-right: 50px;
 }
 
 .g{
-    margin: 25px auto auto 450px;
+    text-align: right;
+}
+
+.g input{
+    border: solid 1px gray;
+    background: white;
+}
+
+.g input[type="button"]:hover{
+    background: red;
+}
+
+body hr{
+    width: 90%;
+    border: 1px solid lightgray;
+    margin: 10px auto;
 }
 
 h1{
